@@ -114,6 +114,8 @@ MIT.
 https://github.com/CiciIvory/cici-cli
 
 
+# Npm
+https://www.npmjs.com/package/cici-cli
 
 
 
