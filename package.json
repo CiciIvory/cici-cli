@@ -1,6 +1,6 @@
 {
   "name": "cici-cli",
-  "version": "1.0.3",
+  "version": "1.0.6",
   "description": "脚手架test",
   "main": "index.js",
   "scripts": {
